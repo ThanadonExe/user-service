@@ -1,7 +1,7 @@
 {
     "name": "thanadonexe/user-service",
     "require": {
-        "laravel/laravel": "^8.5|9.*"
+        "laravel/framework": "^8.5|^9.0"
     },
     "autoload": {
         "psr-4": {
